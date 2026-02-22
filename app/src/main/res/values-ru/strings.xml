@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Визитка</string>
+    <string name="full_name">Андрей Анисимов</string>
+    <string name="group_info">Студент, группа Б23-191-1</string>
+    <string name="phone_val">+7 (999) 000-11-22</string>
+    <string name="email_val">Почта: anisimovandrusha@gmail.com</string>
+    <string name="tg_val">Телеграм: @ivan_dev</string>
+</resources>
